@@ -18,10 +18,10 @@ Este es un pequeño proyecto web que permite realizar un sorteo de "Amigo Secret
 
 ## 📷 Vista previa
 
-![Amigo Secreto](assets/amigo-secreto.png)
+![Amigo Secreto](assets/vista_previa.png)
 
 ## Instalación y ejecución
 
 1. **Clonar el repositorio**  
    ```bash
-   
+   https://github.com/Myrian-Rosmery/amigo-secreto.git
