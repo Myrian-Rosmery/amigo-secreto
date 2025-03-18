@@ -25,3 +25,6 @@ Este es un pequeño proyecto web que permite realizar un sorteo de "Amigo Secret
 1. **Clonar el repositorio**  
    ```bash
    https://github.com/Myrian-Rosmery/amigo-secreto.git
+## Si deseas jugar, accede a:
+```bash
+   https://myrian-rosmery.github.io/amigo-secreto/
