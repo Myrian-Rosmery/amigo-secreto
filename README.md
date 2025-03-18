@@ -1,11 +1,11 @@
 # Amigo Secreto
 
-Este es un pequeño proyecto web que permite realizar un sorteo de "Amigo Secreto" ingresando nombres en una lista y seleccionando aleatoriamente un ganador.
+Este es un pequeño juego que permite realizar un sorteo de "Amigo Secreto" ingresando nombres en una lista y seleccionando aleatoriamente un ganador.
 
 ## Características
 
 - Agregar nombres a la lista.
-- Validar que no se agreguen nombres vacíos o repetidos.
+- Validar que no se agreguen nombres vacíos.
 - Visualizar la lista de participantes.
 - Realizar un sorteo aleatorio.
 - Limpiar la lista después del sorteo.
